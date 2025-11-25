@@ -1,4 +1,3 @@
-# Task 3 -- SQL for Data Analysis
 
 This repository contains SQL queries for Task 3 from the Data Analyst
 Internship assignment.
@@ -7,7 +6,7 @@ Internship assignment.
 
 -   `task3_queries.sql` -- All SQL queries (SELECT, JOIN, GROUP BY,
     subqueries, views, indexing)
--   `screenshots/` -- Add your output screenshots here
+-   `screenshots/` -- output screenshots
 -   `README.md` -- Explanation of the task and how to run it
 
 ## 🧠 Task Objective
@@ -30,14 +29,7 @@ Use SQL to analyze ecommerce data using: - SELECT, WHERE, ORDER BY\
 <!-- -->
 ```
     SOURCE task3_queries.sql;
-
-4.  Capture screenshots of outputs
-
+4.  Captured screenshots of outputs
 ## 📸 Screenshots
+Created a folder named `screenshots/`
 
-Create a folder named `screenshots/` and add: - Output of each query -
-View results - Index usage if applicable
-
-## ✅ Author
-
-Generated automatically for GitHub submission.
