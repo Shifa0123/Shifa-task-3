@@ -1,35 +1,27 @@
+Performed structured data analysis on an E-commerce dataset using SQL to extract business insights, analyze revenue trends, and optimize query performance.
 
-This repository contains SQL queries for Task 3 from the Data Analyst
-Internship assignment.
+Data Extraction & Filtering
+Used SELECT, WHERE, and ORDER BY to retrieve and filter relevant data.
+Analyzed customer, orders, and product datasets.
+Filtered high-value customers and recent transactions.
 
-## 📌 Contents
+Data Aggregation & Business Metrics
+Used GROUP BY with aggregate functions (SUM, AVG, COUNT) to calculate:
+Total revenue
+Total orders per customer
+Category-wise sales performance
 
--   `task3_queries.sql` -- All SQL queries (SELECT, JOIN, GROUP BY,
-    subqueries, views, indexing)
--   `screenshots/` -- output screenshots
--   `README.md` -- Explanation of the task and how to run it
+SQL Joins
+Applied different types of joins:
+INNER JOIN to combine orders with customers
+LEFT JOIN to identify customers without orders
+RIGHT JOIN (where applicable) to analyze product coverage
+Created relationship-based analysis between multiple tables.
 
-## 🧠 Task Objective
+Outcome / Learning
+Gained hands-on experience in SQL-based data analysis.
+Learned to manipulate structured datasets efficiently.
+Improved understanding of database relationships.
 
-Use SQL to analyze ecommerce data using: - SELECT, WHERE, ORDER BY\
-- GROUP BY, HAVING\
-- JOINS (INNER, LEFT, RIGHT)\
-- Subqueries\
-- Aggregate functions (SUM, AVG)\
-- Views\
-- Query optimization with indexes
 
-## 🚀 How to Run the SQL File
-
-1.  Open MySQL / PostgreSQL / SQLite
-2.  Import the dataset (any ecommerce dataset)
-3.  Run:
-
-```{=html}
-<!-- -->
-```
-    SOURCE task3_queries.sql;
-4.  Captured screenshots of outputs
-## 📸 Screenshots
-Created a folder named `screenshots/`
-
+Built strong foundation in writing optimized SQL queries.
